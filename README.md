@@ -1,3 +1,7 @@
+#All credit for this fantastic game goes to Nroutasou, please go support them
+
+
+
 # Level 13
 
 Level 13 is an text-based incremental science fiction browser adventure where the player must survive in a dark, decayed City, (re-)discover old and new technologies, and rebuild a civilization that has collapsed.
