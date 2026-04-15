@@ -1,4 +1,4 @@
-#All credit for this fantastic game goes to Nroutasou, please go support them
+# All credit for this fantastic game goes to Nroutasou, please go support them
 
 
 
